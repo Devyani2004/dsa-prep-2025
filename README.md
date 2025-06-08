@@ -10,11 +10,11 @@ Tracking my daily DSA grind from June 9 to July 30.
   - Created `dsa-prep-2025` repo
   - Organized folders for Arrays and Strings
 
-### ✅ June 9th:
+### tasks for June 9th:
 - 📘 Arrays:
-  - Studied traversal, insertion, deletion
-  - Practiced: Two Sum, Kadane’s Algorithm, Move Zeroes
+  - traversal, insertion, deletion
+  - Two Sum, Kadane’s Algorithm, Move Zeroes
 - 📘 Strings:
-  - Practiced: Valid Anagram, Reverse Words, Longest Substring Without Repeating Characters
+  - Valid Anagram, Reverse Words, Longest Substring Without Repeating Characters
 
   
