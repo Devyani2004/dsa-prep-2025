@@ -12,7 +12,7 @@ Tracking my daily DSA grind from June 9 to July 30.
 
 ### tasks for June 9th:
 - 📘 Arrays:
-  - traversal, insertion, deletion
+  - completed: traversal, insertion, deletion
   - Two Sum, Kadane’s Algorithm, Move Zeroes
 - 📘 Strings:
   - Valid Anagram, Reverse Words, Longest Substring Without Repeating Characters
