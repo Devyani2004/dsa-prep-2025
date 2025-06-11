@@ -17,7 +17,8 @@ Tracking my daily DSA grind from June 9 to July 30.
  
 ### tasks for June 10th and 11th:
 - Arrays:
-  -  Kadane’s Algorithm, Move Zeroes
+  -  completed Kadane’s Algorithm
+  -  Move Zeroes
 -  Strings:
   - Valid Anagram, Reverse Words, Longest Substring Without Repeating Characters
 
