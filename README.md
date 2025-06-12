@@ -15,7 +15,7 @@ Tracking my daily DSA grind from June 9 to July 30.
   - completed: traversal, insertion, deletion
   - completed Two Sum
  
-### tasks for June 10th and 11th:
+### tasks for June 10th, 11th and 12th:
 - Arrays:
   -  completed Kadane’s Algorithm
   -  Move Zeroes
