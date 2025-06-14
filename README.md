@@ -23,7 +23,7 @@ Tracking my daily DSA grind from June 9 to July 30.
   - Valid Anagram, Reverse Words, Longest Substring Without Repeating Characters
 
 ### tasks for June 14th
-  - Searching: Linear & Binary
+  - completed_ Searching: Linear & Binary
   -	Practice: Arrays + Search Recap
 
   
