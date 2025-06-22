@@ -40,12 +40,12 @@ Tracking my daily DSA grind from June 9 to July 30.
 ### tasks for June 22nd 
 
 ####  Sorting Basics
-- [x] Studied:
+- Studied:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
-- [x] Understood time and space complexities
-- [x] Implemented all three in C++
+- Understood time and space complexities
+- Implemented all three in C++
 
 ####  Sorting Practice Problems
 - [x] Sort Colors (Dutch National Flag Problem)
