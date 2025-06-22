@@ -49,7 +49,7 @@ Tracking my daily DSA grind from June 9 to July 30.
 
 ####  Sorting Practice Problems
 - Sort Colors (Dutch National Flag Problem)  https://leetcode.com/problems/sort-colors/submissions/1672453475/
-- [x] Merge Sorted Array
+- Merge Sorted Array  https://leetcode.com/problems/merge-sorted-array/submissions/1672479591/
 - [x] Check if Array is Sorted and Rotated
 
   
