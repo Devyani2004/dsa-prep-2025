@@ -10,20 +10,46 @@ Tracking my daily DSA grind from June 9 to July 30.
   - Created `dsa-prep-2025` repo
   - Organized folders for Arrays and Strings
 
+------
+
 ### tasks for June 9th:
 -  Arrays:
   - completed: traversal, insertion, deletion
   - completed Two Sum
+
+------
  
 ### tasks for June 10th, 11th and 12th:
 - Arrays:
   -  completed Kadane’s Algorithm
   -  Move Zeroes
 -  Strings:
-  - Valid Anagram, Reverse Words, Longest Substring Without Repeating Characters
+  -completed_ Valid Anagram, Reverse Words, Longest Substring Without Repeating Characters
+
+
+------
 
 ### tasks for June 14th
   - completed_ Searching: Linear & Binary
-  -	Practice: Arrays + Search Recap
+  -	completed Practice: Arrays + Search Recap
+
+
+------
+
+
+### tasks for June 22nd 
+
+####  Sorting Basics
+- [x] Studied:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+- [x] Understood time and space complexities
+- [x] Implemented all three in C++
+
+####  Sorting Practice Problems
+- [x] Sort Colors (Dutch National Flag Problem)
+- [x] Merge Sorted Array
+- [x] Check if Array is Sorted and Rotated
 
   
