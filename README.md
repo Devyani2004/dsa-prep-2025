@@ -52,4 +52,30 @@ Tracking my daily DSA grind from June 9 to July 30.
 - Merge Sorted Array  https://leetcode.com/problems/merge-sorted-array/submissions/1672479591/
 - Array is Sorted and Rotated https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1673501355/
 
+-----
+
+### Tasks for June 23rd
+#### Recap (Basic Sorting): (revised)
+
+  - Selection Sort
+  
+  - Bubble Sort
+  
+  - Insertion Sort
+
+#### Learn:
+
+ - Merge Sort (Recursive Implementation)
+
+ - Quick Sort (Recursive + Partition Logic)
+
+##### Practice Problems:
+
+ - Implement Merge Sort on an integer array
+
+ - Implement Quick Sort on an integer array
+
+ - Leetcode 56 – Merge Intervals
+
+ - Count Inversions using Merge Sort
   
