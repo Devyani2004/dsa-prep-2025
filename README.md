@@ -71,23 +71,23 @@ Tracking my daily DSA grind from June 9 to July 30.
 
 ##### Practice Problems:
 
- - Implement Merge Sort on an integer array
+ - Implemented Merge Sort on an integer array
 
- - Implement Quick Sort on an integer array
+ - Implemented Quick Sort on an integer array
 
- - Leetcode 56 – Merge Intervals
+ - Leetcode 56 – Merge Intervals https://leetcode.com/problems/merge-intervals/submissions/1675721062/
 
- - Count Inversions using Merge Sort
+ - Count Inversions using Merge Sort 
 
 --------
 
 ### June 25th – Advanced Sorting & Intervals
 ##### Recap:
-- Merge Sort
-
-- Quick Sort
-
-- Leetcode 56 – Merge Intervals
+  - Merge Sort
+  
+  - Quick Sort
+  
+  - Leetcode 56 – Merge Intervals
 
 #### New Concepts to Learn:
 
