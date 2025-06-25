@@ -78,4 +78,38 @@ Tracking my daily DSA grind from June 9 to July 30.
  - Leetcode 56 – Merge Intervals
 
  - Count Inversions using Merge Sort
+
+--------
+
+### June 25th – Advanced Sorting & Intervals
+##### Recap:
+- Merge Sort
+
+- Quick Sort
+
+- Leetcode 56 – Merge Intervals
+
+#### New Concepts to Learn:
+
+  1. Sorting + Greedy Patterns:
+    
+    - Activity Selection Problem
+    
+    - Interval Scheduling Maximum
+    
+    - Minimum Number of Platforms (Train Problem)
+    
+  2. Advanced Intervals:
+     
+    Insert Interval
+    
+    Meeting Rooms I & II
+    
+    Non-overlapping Intervals
   
+ ##### Problems to Practice:
+    Topic	Problem	Platform
+    Greedy + Sorting	Leetcode 452 – Minimum Number of Arrows to Burst Balloons	Leetcode
+    Intervals	Leetcode 57 – Insert Interval	Leetcode
+    Intervals	Leetcode 253 – Meeting Rooms II	Leetcode
+    Greedy	N meetings in one room – GFG	GFG
