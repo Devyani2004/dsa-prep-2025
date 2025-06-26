@@ -81,7 +81,7 @@ Tracking my daily DSA grind from June 9 to July 30.
 
 --------
 
-### June 25th – Advanced Sorting & Intervals
+### June 25th and 26th – Advanced Sorting & Intervals
 ##### Recap:
   - Merge Sort
   
