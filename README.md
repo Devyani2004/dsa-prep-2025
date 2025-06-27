@@ -93,7 +93,7 @@ Tracking my daily DSA grind from June 9 to July 30.
 
   1. Sorting + Greedy Patterns:
     
-    - Activity Selection Problem
+    - Activity Selection Problem completed
     
     - Interval Scheduling Maximum
     
