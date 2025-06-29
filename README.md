@@ -113,3 +113,13 @@ Tracking my daily DSA grind from June 9 to July 30.
     Intervals	Leetcode 57 – Insert Interval	Leetcode
     Intervals	Leetcode 253 – Meeting Rooms II	Leetcode
     Greedy	N meetings in one room – GFG	GFG
+
+--------
+
+
+### 29th June: 
+
+  - Today I revised Queues and Linked List.
+  - Did some questions of recursion
+  - The tasks of 25th June are still pending, will complete them tomorrow. 
+
