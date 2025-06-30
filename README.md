@@ -121,5 +121,12 @@ Tracking my daily DSA grind from June 9 to July 30.
 
   - Today I revised Queues and Linked List.
   - Did some questions of recursion
-  - The tasks of 25th June are still pending, will complete them tomorrow. 
+  - The tasks of 25th June are still pending, will complete them tomorrow.
+
+------
+
+### June 30th:
+1. Revised
+     sliding window technique - 7:30 to 8:00 am
+     
 
