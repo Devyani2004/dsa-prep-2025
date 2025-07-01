@@ -135,5 +135,11 @@ Tracking my daily DSA grind from June 9 to July 30.
      
   
 
-        
+#### June month refection: I dont think so that I have done enough this month I have procrastinated a lot, a lot of things came up and I was not able to do. 
+    - It's July now and I am goig to follow a proper schedule now and in this month I'll focus on core DSA and CS Fundamentals
+
+-----------------
+
+
+
   
