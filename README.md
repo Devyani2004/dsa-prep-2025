@@ -141,5 +141,15 @@ Tracking my daily DSA grind from June 9 to July 30.
 -----------------
 
 
+## July, 2025
+    -    Mindset: Daily, structured practice is non-negotiable. Consistency outperforms cramming and is proven to improve retention and performance
+
+### WEEK 1 OF JULY, 2025
+    July 1st: ARRAYS (BASICS, OPERATIONS)
+        - [X] Study Theory
+        - [X] Implemet basic operations
+        - [X] 5 LeetCode Problems
+
+
 
   
