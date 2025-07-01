@@ -147,7 +147,7 @@ Tracking my daily DSA grind from June 9 to July 30.
 ### WEEK 1 OF JULY, 2025
     July 1st: ARRAYS (BASICS, OPERATIONS)
         - [Done] Study Theory
-        - [X] Implemet basic operations
+        - [X] Implement basic operations
         - [X] 5 LeetCode Problems
 
 
