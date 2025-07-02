@@ -147,11 +147,24 @@ Tracking my daily DSA grind from June 9 to July 30.
 ### WEEK 1 OF JULY, 2025
     July 1st: ARRAYS (BASICS, OPERATIONS)
         - [Done] Study Theory
-        - [X] Implement basic operations
-        - [X] 5 LeetCode Problems
+        - [Done] Implement basic operations
+        - [Done] 5 LeetCode Problems
             - https://leetcode.com/problems/two-sum/submissions/1682880725/
             - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1682887111/
             - https://leetcode.com/problems/move-zeroes/submissions/1682911825/
+            - https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1683424735/
+            - https://leetcode.com/problems/contains-duplicate/submissions/1683428090/
+
+---------
+
+    July 2nd: ARRAYS (SEARCHING, SORTING)
+        - [X] Implement :
+                    * Linear Search
+                    * Binary Search
+                    * Bubble Sort
+                    * Selection Sort
+                    * Insertion Sort
+        - [X] Solve 5 LeetCode Problems
             
 
 
