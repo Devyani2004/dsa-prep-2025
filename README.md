@@ -159,8 +159,8 @@ Tracking my daily DSA grind from June 9 to July 30.
 
     July 2nd: ARRAYS (SEARCHING, SORTING)
         - [X] Implement :
-                    * Linear Search
-                    * Binary Search
+                    * Linear Search {Done}
+                    * Binary Search {Done}
                     * Bubble Sort
                     * Selection Sort
                     * Insertion Sort
