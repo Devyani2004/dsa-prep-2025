@@ -158,13 +158,18 @@ Tracking my daily DSA grind from June 9 to July 30.
 ---------
 
     July 2nd: ARRAYS (SEARCHING, SORTING)
-        - [X] Revise :
+        - [Done] Revise :
                     * Linear Search {Done}
                     * Binary Search {Done}
                     * Bubble Sort {Done}
-                    * Selection Sort
-                    * Insertion Sort
+                    * Selection Sort {Dome}
+                    * Insertion Sort {Done}
+                    * Merge Sort {done}
         - [X] Solve 5 LeetCode Problems
+                https://leetcode.com/problems/binary-search/submissions/1683850700/
+                https://leetcode.com/problems/search-in-rotated-sorted-array/post-solution/?submissionId=1673501355
+                https://leetcode.com/problems/sort-an-array/submissions/1683866881/
+                
             
 
 
