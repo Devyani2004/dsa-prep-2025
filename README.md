@@ -158,10 +158,10 @@ Tracking my daily DSA grind from June 9 to July 30.
 ---------
 
     July 2nd: ARRAYS (SEARCHING, SORTING)
-        - [X] Implement :
+        - [X] Revise :
                     * Linear Search {Done}
                     * Binary Search {Done}
-                    * Bubble Sort
+                    * Bubble Sort {Done}
                     * Selection Sort
                     * Insertion Sort
         - [X] Solve 5 LeetCode Problems
