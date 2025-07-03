@@ -165,11 +165,24 @@ Tracking my daily DSA grind from June 9 to July 30.
                     * Selection Sort {Dome}
                     * Insertion Sort {Done}
                     * Merge Sort {done}
-        - [X] Solve 5 LeetCode Problems
+        - [Done] Solve 5 LeetCode Problems
                 https://leetcode.com/problems/binary-search/submissions/1683850700/
                 https://leetcode.com/problems/search-in-rotated-sorted-array/post-solution/?submissionId=1673501355
                 https://leetcode.com/problems/sort-an-array/submissions/1683866881/
+                https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/1685178835/
+                https://leetcode.com/problems/first-bad-version/submissions/1685186241/
+
+--------
+
+    July 3rd, 2025
+    - [DONE] LEARN :
+                * 2D ARRAY
+                * SLIDING WINDOW TECHNIQUE
+    - [X] SOLVE 5 LEETCODE PROBLEMS
                 
+                
+    
+        
             
 
 
