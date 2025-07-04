@@ -1,7 +1,7 @@
-# dsa-prep-2025
+   # dsa-prep-2025
 My Data Structures & Algorithms prepration
 
-Tracking my daily DSA grind from June 9 to July 30.
+Tracking my daily DSA grind from June 9, 2025.
 
 ##  Progress
 
@@ -179,6 +179,15 @@ Tracking my daily DSA grind from June 9 to July 30.
                 * 2D ARRAY
                 * SLIDING WINDOW TECHNIQUE
     - [X] SOLVE 5 LEETCODE PROBLEMS
+
+-------
+
+    July 4th, 2025:
+    - [X] STRINGS (Basics, Manipulation)
+            * Study string function
+            * Implemment common manipulation
+
+    - [X] 5 LeetCode Problems
                 
                 
     
