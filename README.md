@@ -206,12 +206,17 @@ Tracking my daily DSA grind from June 9, 2025.
 ------
 
       JULY 10TH,
-         SOLVED THE FOLOOWING LEETCODE PROBLEMS:
-
-
-         REVISED : STACK(ARRAY, LL BASED)
+            REVISED : STACK(ARRAY, LL BASED)
          
             SOLVED THE FOLLOWING LEETCODE PROBLEMS
+
+
+--------
+
+      JUlY 11TH:
+            STACK (INFIX, POSTFIX, MINSTACK)
+            5 LEETCODE PROBLEM
+            
       
                 
     
